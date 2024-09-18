@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, MySQL, MongoDB**
 
-- 👨‍💻 All of my projects are available at [github.com/gauravw66](github.com/gauravw66)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://gauravw66.vercel.app/)
 
 - 📫 How to reach me **gbwaghmare66@gmail.com**
 
